@@ -6,6 +6,6 @@
 * HTML, CSS, JS
 * Flexbox 
 * БЭМ
-* jQuery(styler, slick, fancybox)
+* jQuery(плагины: styler, slick, fancybox)
 
 Ссылка на GitHub-pages: https://kristina-saveleva.github.io/LogoType/
