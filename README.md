@@ -5,3 +5,5 @@
 ## Используемые технологии:
 * HTML, CSS, JS, jQuery
 * Flexbox 
+
+Ссылка на GitHub-pages: https://kristina-saveleva.github.io/LogoType/
