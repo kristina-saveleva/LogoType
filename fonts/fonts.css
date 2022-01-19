@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(Roboto/Roboto-Regular.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto thin";
+    src: url(Roboto/Roboto-Medium.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Roboto thin";
+    src: url(Roboto/Roboto-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "PT serif";
+    src: url(PT_Serif/PTSerif-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
