@@ -45,6 +45,10 @@
 }
 
 @media (max-width: 1050px){
+    main{
+        margin-bottom: 14rem;
+    }
+
     .footer__inner{
         display: block;
     }
@@ -166,6 +170,14 @@
 }
 
 @media (max-width: 540px){
+    main{
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .footer{
+        position: sticky;
+    }
     .news__slider{
         padding: 50px 15px 25px 25px;
     }

@@ -11,6 +11,12 @@ li{
     margin: 0;
     padding: 0;
 }
+main{
+    position: relative;
+    z-index: 5;
+    padding-bottom: 22rem;
+}
+
 .container{
     max-width: 1170px;
     margin: 0 auto;
@@ -222,6 +228,7 @@ li{
 
 .services{
     padding: 50px 0 30px;
+    background-color: #fff;
 }
 
 .services__top,
@@ -360,6 +367,7 @@ li{
 
 .form{
     padding-top: 30px;
+    background-color: #fff;
 }
 
 .form__inner{
@@ -657,6 +665,13 @@ li{
 
 .news__slider-inner .slick-disabled::before{
     color: #dadada;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 2;
 }
 
 .footer__content{
