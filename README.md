@@ -10,5 +10,6 @@
 
 ## Собственные доработки:
 * Плавная навигация «Go To» (при нажатии на кнопки меню)
+* Фиксированный Footer
 
 Ссылка на GitHub-pages: https://kristina-saveleva.github.io/LogoType/
