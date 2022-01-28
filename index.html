@@ -44,13 +44,13 @@
                                 <a href="#">Главная</a>
                             </li>
                             <li>
-                                <a href="#">О гайде</a>
+                                <a href="#company">О компании</a>
                             </li>
                             <li>
-                                <a href="#">Услуги</a>
+                                <a href="#services">Услуги</a>
                             </li>
                             <li>
-                                <a href="#">Контакты</a>
+                                <a href="#contacts">Контакты</a>
                             </li>
                         </ul>
                     </nav>
@@ -106,7 +106,7 @@
             </div>
         </div>
     </section>
-    <section class="services">
+    <section class="services" id="services">
         <div class="container">
             <div class="services__top">
                 <div class="services__title-box">
@@ -176,7 +176,7 @@
             </div>
         </div>
     </section>
-    <section class="about">
+    <section class="about" id="company">
         <div class="container">
             <div class="about__inner">
                 <div class="about__title">
@@ -374,7 +374,7 @@
             </div>
         </div>
     </section>
-    <footer class="footer">
+    <footer class="footer" id="contacts">
         <div class="footer__content">
             <div class="container">
                 <div class="footer__inner">
@@ -403,7 +403,7 @@
                         </ul>
                     </div>
                     <div class="footer__map">
-                        <iframe width="630" height="250"
+                        <iframe height="250"
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.124391996489!2d30.364922015731644!3d50.457408279476354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cc919501b4ef%3A0x71a476f68f4c8246!2z0YPQuy4g0KTQtdC-0LTQvtGA0Ysg0J_Rg9GI0LjQvdC-0LksIDEzLCDQmtC40LXQsiwg0KPQutGA0LDQuNC90LAsIDAyMDAw!5e0!3m2!1sru!2sru!4v1642772940490!5m2!1sru!2sru"
                             style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
@@ -421,6 +421,7 @@
 
     <div id="modal">
         <form>
+            <h1 class="modal__title">Хотите получить консультацию?</h1>
             <input type="text" placeholder="Ваше имя">
             <input type="text" placeholder="Ваш телефон">
             <input type="submit" value="Отправить">
@@ -428,6 +429,7 @@
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="js/jquery.fancybox.min.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/jquery.formstyler.min.js"></script>
