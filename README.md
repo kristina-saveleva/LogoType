@@ -9,7 +9,7 @@
 * jQuery(плагины: styler, slick, fancybox)
 
 ## Собственные доработки:
-* Плавная навигация «Go To» (при нажатии на кнопки меню)
+* Плавная навигация «Go To», использована библиотека jQuery (при нажатии на кнопки меню)
 * Фиксированный Footer
 
 Ссылка на GitHub-pages: https://kristina-saveleva.github.io/LogoType/
