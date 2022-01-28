@@ -8,7 +8,7 @@
 * БЭМ
 * jQuery(плагины: styler, slick, fancybox)
 
-## Собственные доработки
+## Собственные доработки:
 * Плавная навигация «Go To» (при нажатии на кнопки меню)
 
 Ссылка на GitHub-pages: https://kristina-saveleva.github.io/LogoType/
