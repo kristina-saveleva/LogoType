@@ -14,7 +14,8 @@ li{
 main{
     position: relative;
     z-index: 5;
-    padding-bottom: 22rem;
+    margin-bottom: 0;
+        padding-bottom: 0;
 }
 
 .container{
@@ -668,7 +669,7 @@ main{
 }
 
 .footer{
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
     z-index: 2;
